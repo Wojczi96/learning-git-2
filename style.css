@@ -8,8 +8,6 @@ header {
   align-items: center;
 }
 .lyric-text {
-  display: flex;
-  flex-direction: column;
   width: 30%;
   margin: 0 auto;
   text-align: center;
