@@ -20,6 +20,9 @@ header h1::after {
   bottom: -24px;
   transform: translateX(-50%);
 }
+.color-change {
+  color: red;
+}
 .lyric-text {
   width: 30%;
   margin: 0 auto;
