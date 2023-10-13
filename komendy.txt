@@ -1,0 +1,7 @@
+html-validate index.html
+
+.htmlvalidate.json {
+  "extends": [
+    "htmlvalidate:recommended"
+  ],
+ }
