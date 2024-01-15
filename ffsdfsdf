@@ -1,0 +1,41 @@
+[33mcommit bca96abd5dd0f7f3399c81c44cfbec2f1dcda32e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mdevTadek[m[33m)[m
+Author: Wojciech Wyskiel <wojtek12.1.96@wp.pl>
+Date:   Fri Oct 13 10:53:40 2023 +0200
+
+    Add dev dependencies
+
+[33mcommit a6b56a1c0f0af76bc790840c9224cd33758c2cbc[m
+Author: Wojciech Wyskiel <wojtek12.1.96@wp.pl>
+Date:   Wed Oct 11 20:09:01 2023 +0200
+
+    change color text
+
+[33mcommit 9e1f2149df6a17030ee2f52cd94bf76434239d64[m
+Author: Wojciech Wyskiel <wojtek12.1.96@wp.pl>
+Date:   Wed Oct 11 20:06:46 2023 +0200
+
+    Add underline
+
+[33mcommit ae469c107a80d9bfab55c1b8f90cfd9a51cdddc2[m
+Author: Wojciech Wyskiel <wojtek12.1.96@wp.pl>
+Date:   Wed Oct 11 12:43:47 2023 +0200
+
+    Fix style
+
+[33mcommit 3f92391033af80af8b8c66694615ce3e143038fa[m
+Author: Wojciech Wyskiel <wojtek12.1.96@wp.pl>
+Date:   Wed Oct 11 12:31:35 2023 +0200
+
+    Add section+css
+
+[33mcommit 5efccfd3bd5af3d7131296f41434d8638c248c5c[m
+Author: Wojciech Wyskiel <wojtek12.1.96@wp.pl>
+Date:   Wed Oct 11 12:11:41 2023 +0200
+
+    Add header+style
+
+[33mcommit bdbe7146a4dc5a9b9a8d52eab4e28016e62823b4[m
+Author: Wojciech Wyskiel <wojtek12.1.96@wp.pl>
+Date:   Wed Oct 11 12:04:07 2023 +0200
+
+    add index structure
