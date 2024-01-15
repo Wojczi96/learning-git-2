@@ -1,4 +1,4 @@
-html-validate index.html
+npm exec html-validate index.html
 
 .htmlvalidate.json {
   "extends": [
